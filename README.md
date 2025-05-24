@@ -1,6 +1,13 @@
 # multiEAdditivesNext
 multiEAdditives for Linux (Flutter)
 
+- [Description](#description)
+- [Download](#download)
+- [Install](#install)
+- [Run](#run)
+- [Remove](#remove)
+
+## Description
 ## Food Additives Handbook. Find out the “what” you eat by buying goods in markets.
 
 Food Additives - is the common name of natural or synthetic chemicals that are added to foods to make them certain properties (improvement of taste and smell, increase the nutritional value, and prevent contamination, etc., etc.), which It is not used as stand-alone food.
@@ -22,3 +29,43 @@ The indispensable app for all curious users. It features a simple and intuitive 
 ![meadditives_vegans.png](/screenshots/meadditives_vegans.png)
 ![meadditives_classification.png](/screenshots/meadditives_classification.png)
 ![meadditives_info.png](/screenshots/meadditives_info.png)
+
+## Download
+
+Download [flatpak file](https://github.com/r-sergii/r-sergii.github.io/releases/download/0.0.1/io.github.r_sergii.multiEAdditivesNext.flatpak)
+
+<p align="center">
+<a href="https://github.com/r-sergii/r-sergii.github.io/releases/download/0.0.1/io.github.r_sergii.multiEAdditivesNext.flatpak">
+    <img width="200" src="https://flathub.org/assets/badges/flathub-badge-en.png" alt="Download on Flathub ">
+</a>
+</p>
+
+## Install
+
+```bash
+flatpak install --user io.github.r_sergii.multiEAdditivesNext.flatpak
+```
+
+Check the success of the installation, the appearance in the menu [Utilities, Standard, ... ] (depending on the Linux distribution) 
+
+or from the Terminal ...
+
+```bash
+flatpak list --app | grep io.github.r_sergii.multiEAdditivesNext
+```
+
+## Run
+
+Call from the menu [Utilities, Standard, ... ] (depending on the Linux distribution) 
+
+or from the Terminal ...
+
+```bash
+flatpak run io.github.r_sergii.multiEAdditivesNext
+```
+
+## Remove
+
+```bash
+flatpak remove io.github.r_sergii.multiEAdditivesNext
+```
