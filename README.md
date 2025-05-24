@@ -2,6 +2,7 @@
 multiEAdditives for Linux (Flutter)
 
 - [Description](#description)
+- [Requirements](#requirements)
 - [Download](#download)
 - [Install](#install)
 - [Run](#run)
@@ -29,6 +30,30 @@ The indispensable app for all curious users. It features a simple and intuitive 
 ![meadditives_vegans.png](/screenshots/meadditives_vegans.png)
 ![meadditives_classification.png](/screenshots/meadditives_classification.png)
 ![meadditives_info.png](/screenshots/meadditives_info.png)
+
+## Requirements
+
+Install flatpak
+
+On ubuntu:
+
+```bash
+sudo apt install flatpak
+```
+
+Add the FlatHub repo:
+
+```bash
+flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+```
+
+Install flatpak build dependencies:
+
+```bash
+flatpak install -y org.freedesktop.Sdk/x86_64/22.08
+flatpak install -y org.freedesktop.Platform/x86_64/22.08
+flatpak install -y flathub org.freedesktop.appstream-glib
+```
 
 ## Download
 
