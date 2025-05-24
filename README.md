@@ -13,11 +13,22 @@ multiCurrency for Linux (Flutter)
 
 multiCurrency Next allows monitoring of both direct and reverse quotes cross-rates of major world currencies.
 
+### Screen of cross-rate quotes for the selected currency
 ![mcurrencynext_ticker.png](/screenshots/mcurrencynext_ticker.png)
+
+### Screen of the candlestick chart of the selected cross-rate for the selected currency
 ![mcurrencynext_candle.png](/screenshots/mcurrencynext_candle.png)
+
+### Screen of the OHLC chart of the selected cross-rate for the selected currency
 ![mcurrencynext_ohlc.png](/screenshots/mcurrencynext_ohlc.png)
+
+### Screen of the bar chart of the selected cross-rate for the selected currency
 ![mcurrencynext_bar.png](/screenshots/mcurrencynext_bar.png)
+
+### Screen of the line chart of the selected cross-rate for the selected currency
 ![mcurrencynext_line.png](/screenshots/mcurrencynext_line.png)
+
+### Screen of the basic settings
 ![mcurrencynext_settings.png](/screenshots/mcurrencynext_settings.png)
 
 ## Requirements
