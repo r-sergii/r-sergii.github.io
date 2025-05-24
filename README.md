@@ -23,12 +23,25 @@ Instant information about each of the additive.
 
 The indispensable app for all curious users. It features a simple and intuitive interface.
 
+### Screen of searching for additives by categories dangerous
 ![meadditives_danger.png](/screenshots/meadditives_danger.png)
+
+### Screen of searching for additives by number
 ![meadditives_find.png](/screenshots/meadditives_find.png)
+
+### Screen of searching for additives by categories groups
 ![meadditives_groups.png](/screenshots/meadditives_groups.png)
+
+### Screen of searching for additives by categories origin
 ![meadditives_origin.png](/screenshots/meadditives_origin.png)
+
+### Screen of searching for additives by categories vegan
 ![meadditives_vegans.png](/screenshots/meadditives_vegans.png)
+
+### Screen of searching for additives by categories classifications
 ![meadditives_classification.png](/screenshots/meadditives_classification.png)
+
+### Information screen for the selected additive
 ![meadditives_info.png](/screenshots/meadditives_info.png)
 
 ## Requirements
