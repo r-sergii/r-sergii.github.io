@@ -2,6 +2,7 @@
 multiCurrency for Linux (Flutter)
 
 - [Description](#description)
+- [Requirements](#requirements)
 - [Download](#download)
 - [Install](#install)
 - [Run](#run)
@@ -18,6 +19,30 @@ multiCurrency Next allows monitoring of both direct and reverse quotes cross-rat
 ![mcurrencynext_bar.png](/screenshots/mcurrencynext_bar.png)
 ![mcurrencynext_line.png](/screenshots/mcurrencynext_line.png)
 ![mcurrencynext_settings.png](/screenshots/mcurrencynext_settings.png)
+
+## Requirements
+
+Install flatpak
+
+On ubuntu:
+
+```bash
+sudo apt install flatpak
+```
+
+Add the FlatHub repo:
+
+```bash
+flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+```
+
+Install flatpak build dependencies:
+
+```bash
+flatpak install -y org.freedesktop.Sdk/x86_64/22.08
+flatpak install -y org.freedesktop.Platform/x86_64/22.08
+flatpak install -y flathub org.freedesktop.appstream-glib
+```
 
 ## Download
 
