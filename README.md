@@ -29,18 +29,26 @@ Download [flatpak file](https://github.com/r-sergii/r-sergii.github.io/releases/
 flatpak install --user io.github.r_sergii.multiCurrencyNext.flatpak
 ```
 
+Check the success of the installation, the appearance in the menu [Utilities, Standard, ... ] (depending on the Linux distribution) 
+
+or from the Terminal ...
+
 ```bash
-flatpak list --app | grep io.github.r_sergii.multiCurrencyNext.flatpak
+flatpak list --app | grep io.github.r_sergii.multiCurrencyNext
 ```
 
 ## Run
 
+Call from the menu [Utilities, Standard, ... ] (depending on the Linux distribution) 
+
+or from the Terminal ...
+
 ```bash
-flatpak run io.github.r_sergii.multiCurrencyNext.flatpak
+flatpak run io.github.r_sergii.multiCurrencyNext
 ```
 
 ## Remove
 
 ```bash
-flatpak remove io.github.r_sergii.multiCurrencyNext.flatpak
+flatpak remove io.github.r_sergii.multiCurrencyNext
 ```
