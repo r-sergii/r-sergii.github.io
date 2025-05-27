@@ -18,6 +18,27 @@ Instant, complete encyclopedic information about each chemical element is availa
  - It has a simple and clear interface.
  - A customizable online multilingual translation of the application interface
 
+### Extended periodic table
+![melementnext_extended.png](/screenshots/melementnext_extended.png)
+
+### Short periodic table
+![melementnext_short.png](/screenshots/melementnext_short.png)
+
+### Circle periodic table
+![melementnext_circle.png](/screenshots/melementnext_circle.png)
+
+### Piramid periodic table
+![melementnext_piramid.png](/screenshots/melementnext_piramid.png)
+
+### Spiral periodic table
+![melementnext_spiral.png](/screenshots/melementnext_spiral.png)
+
+### ADOMAH periodic table
+![melementnext_adomah.png](/screenshots/melementnext_adomah.png)
+
+### Settings
+![melementnext_settings.png](/screenshots/melementnext_settings.png)
+
 ## Requirements
 
 Install flatpak
