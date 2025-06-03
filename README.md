@@ -68,9 +68,22 @@ flatpak install -y org.freedesktop.Platform/x86_64/22.08
 flatpak install -y flathub org.freedesktop.appstream-glib
 ```
 
+To display webview on Linux, WebKit2GTK development libraries are used, if you don't have it already installed:
+
+#### Ubuntu:
+
+```bash
+apt install libwebkit2gtk-4.0-dev
+```
+#### Fedora:
+
+```bash
+dnf install webkit2gtk3-devel
+```
+
 ## Download
 
-Download [flatpak file](https://github.com/r-sergii/r-sergii.github.io/releases/download/0.0.1/io.github.r_sergii.multiEAdditivesNext.flatpak)
+Download [flatpak file x86-64](https://github.com/r-sergii/r-sergii.github.io/releases/download/0.0.1/io.github.r_sergii.multiEAdditivesNext.flatpak)
 
 <p align="center">
 <a href="https://github.com/r-sergii/r-sergii.github.io/releases/download/0.0.1/io.github.r_sergii.multiEAdditivesNext.flatpak">
