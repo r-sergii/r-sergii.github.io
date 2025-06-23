@@ -43,8 +43,8 @@ flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flat
 Install flatpak build dependencies:
 
 ```bash
-flatpak install -y org.freedesktop.Sdk/x86_64/22.08
-flatpak install -y org.freedesktop.Platform/x86_64/22.08
+flatpak install -y org.gnome.Sdk/x86_64/44
+flatpak install -y org.gnome.Platform/x86_64/44
 flatpak install -y flathub org.freedesktop.appstream-glib
 ```
 
