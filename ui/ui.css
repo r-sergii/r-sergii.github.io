@@ -1,0 +1,73 @@
+html { font-size: 22px; }
+body { padding: 1rem; }
+
+.card {
+  background-color: dodgerblue;
+  color: white;
+  padding: 1rem;
+  height: 4rem;
+}
+
+.cards {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: grid;
+  grid-gap: 1rem;
+}
+
+/* Screen larger than 600px? 2 column */
+@media (min-width: 600px) {
+  .cards { grid-template-columns: repeat(2, 1fr); }
+}
+
+/* Screen larger than 900px? 3 columns */
+@media (min-width: 900px) {
+  .cards { grid-template-columns: repeat(3, 1fr); }
+}
+
+.container {
+  width: 100%;
+  margin: auto;
+  border: 1px solid grey;
+border-radius: 15px;
+  display: flex;
+}
+.div1,
+.right {
+  display: flex;
+  flex-direction: column;
+}
+.div1,
+.right > div {
+  padding: 0.5em;
+  margin: auto;
+}
+.div1 {
+}
+.div2 {
+  text-align: left;
+}
+.div3 {
+  text-align: left;
+}
+
+.imgHolder {
+  position: relative;
+}
+.imgHolder span.right {
+  position: absolute;
+  left: 100px;
+  top: 0px;
+}
+.imgHolder span.top {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  background-color:green;
+}
+.imgHolder span.bottom{
+  position: absolute;
+  right: 10px;
+  top: 30px;
+  background-color:yellow;
+}
