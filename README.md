@@ -1,4 +1,4 @@
-# WordInPictureNext Deutsche
+# WordInPictureNextDe
 WordInPictureNext for Linux (Flutter)
 
 ## Test your knowledge of Deutsche
