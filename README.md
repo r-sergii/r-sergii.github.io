@@ -1,9 +1,9 @@
-# WordInPictureNext Deutsche
+# WordInPictureNextEs
 WordInPictureNext for Linux (Flutter)
 
-## Test your knowledge of Deutsche
+## Test your knowledge of Spanish
 
-Test your knowledge of Deutsche
+Test your knowledge of Spanish
 
 ### Light theme
 ![wordinpicturenext_en01.png](/screenshots/wordinpicturenext_en01.png)
