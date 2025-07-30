@@ -1,9 +1,9 @@
-# WordInPictureNextDe
+# WordInPictureNextFr
 WordInPictureNext for Linux (Flutter)
 
-## Test your knowledge of Deutsche
+## Test your knowledge of French
 
-Test your knowledge of Deutsche
+Test your knowledge of French
 
 ### Light theme
 ![wordinpicturenext_en01.png](/screenshots/wordinpicturenext_en01.png)
