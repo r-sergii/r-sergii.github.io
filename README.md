@@ -11,7 +11,9 @@ WordInPictureNext for Linux (Flutter)
 ## Description
 ## Test your knowledge of Afrikaans
 
-Test your knowledge of Afrikaans
+Test your knowledge of Afrikaans.
+
+To voice the pronunciation of words, the TTS engine **ESPEAK-NG** is used.
 
 ### Light theme
 ![wordinpicturenext_en01.png](/screenshots/wordinpicturenext_en01.png)
