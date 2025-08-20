@@ -11,7 +11,9 @@ WordInPictureNext for Linux (Flutter)
 ## Description
 ## Test your knowledge of American English
 
-Test your knowledge of American English
+Test your knowledge of American English.
+
+To voice the pronunciation of words, the TTS engine **SVOX Pico** is used.
 
 ### Light theme
 ![wordinpicturenext_en01.png](/screenshots/wordinpicturenext_en01.png)
