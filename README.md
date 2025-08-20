@@ -1,4 +1,4 @@
-# WordInPictureNextUs
+# WordInPictureNextPt
 WordInPictureNext for Linux (Flutter)
 
 - [Description](#description)
@@ -9,9 +9,9 @@ WordInPictureNext for Linux (Flutter)
 - [Remove](#remove)
 
 ## Description
-## Test your knowledge of American English
+## Test your knowledge of Portuguese
 
-Test your knowledge of American English
+Test your knowledge of Portuguese
 
 ### Light theme
 ![wordinpicturenext_en01.png](/screenshots/wordinpicturenext_en01.png)
@@ -58,10 +58,10 @@ dnf install webkit2gtk3-devel
 
 ## Download
 
-Download [flatpak file x86-64](https://github.com/r-sergii/r-sergii.github.io/releases/download/0.0.1/io.github.r_sergii.WordInPictureNextUs.flatpak)
+Download [flatpak file x86-64](https://github.com/r-sergii/r-sergii.github.io/releases/download/0.0.1/io.github.r_sergii.WordInPictureNextPt.flatpak)
 
 <p align="center">
-<a href="https://github.com/r-sergii/r-sergii.github.io/releases/download/0.0.1/io.github.r_sergii.WordInPictureNextUs.flatpak">
+<a href="https://github.com/r-sergii/r-sergii.github.io/releases/download/0.0.1/io.github.r_sergii.WordInPictureNextPt.flatpak">
     <img width="200" src="https://flathub.org/assets/badges/flathub-badge-en.png" alt="Download on Flathub ">
 </a>
 </p>
@@ -69,7 +69,7 @@ Download [flatpak file x86-64](https://github.com/r-sergii/r-sergii.github.io/re
 ## Install
 
 ```bash
-flatpak install --user io.github.r_sergii.WordInPictureNextUs.flatpak
+flatpak install --user io.github.r_sergii.WordInPictureNextPt.flatpak
 ```
 
 Check the success of the installation, the appearance in the menu [Utilities, Standard, ... ] (depending on the Linux distribution) 
@@ -77,7 +77,7 @@ Check the success of the installation, the appearance in the menu [Utilities, St
 or from the Terminal ...
 
 ```bash
-flatpak list --app | grep io.github.r_sergii.WordInPictureNextUs
+flatpak list --app | grep io.github.r_sergii.WordInPictureNextPt
 ```
 
 ## Run
@@ -87,11 +87,11 @@ Call from the menu [Utilities, Standard, ... ] (depending on the Linux distribut
 or from the Terminal ...
 
 ```bash
-flatpak run io.github.r_sergii.WordInPictureNextUs
+flatpak run io.github.r_sergii.WordInPictureNextPt
 ```
 
 ## Remove
 
 ```bash
-flatpak remove io.github.r_sergii.WordInPictureNextUs
+flatpak remove io.github.r_sergii.WordInPictureNextPt
 ```
