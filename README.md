@@ -13,6 +13,8 @@ WordInPictureNext for Linux (Flutter)
 
 Test your knowledge of Portuguese
 
+To voice the pronunciation of words, the TTS engine **ESPEAK-NG** is used.
+
 ### Light theme
 ![wordinpicturenext_en01.png](/screenshots/wordinpicturenext_en01.png)
 
